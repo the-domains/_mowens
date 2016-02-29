@@ -1,0 +1,28 @@
+name: _mowens
+favicon: null
+layout_spectrum: 0.38224297133274376
+typography_spectrum: 0.583682157099247
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6765859220176935
+  lightness: 0.21236851206049323
+  saturation: 0.5802152140531689
+  rhythmicContrast: 0.057386050932109356
+purpose: []
