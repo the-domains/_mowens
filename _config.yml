@@ -1,6 +1,6 @@
 name: _mowens
 favicon: null
-layout_spectrum: 0.38224297133274376
+layout_spectrum: 0.99633
 typography_spectrum: 0.583682157099247
 title: Thinking about thoughts
 cta:
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.6765859220176935
+  brandStrength: 0.5
   lightness: 0.21236851206049323
-  saturation: 0.5802152140531689
+  saturation: 0.6875
   rhythmicContrast: 0.057386050932109356
 purpose: []
