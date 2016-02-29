@@ -1,29 +1,18 @@
-name: _mowens
-favicon: null
-layout_spectrum: 0.38465
-typography_spectrum: 0.14298
-title: Thinking about thoughts
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#010101'
-    - '#b4d3f0'
-    - '#74abe4'
-    - '#772103'
-    - '#cd601f'
-  brandStrength: 0
-  lightness: 0.21236851206049323
+    - '#B8C0B0'
+    - '#107060'
+    - '#70A0A0'
+    - '#C89030'
+    - '#E0C068'
+  brandStrength: 1
+  lightness: 0.212368
+  rhythmicContrast: 0.057386
   saturation: 0.5
-  rhythmicContrast: 0.057386050932109356
+cta: {}
+layout_spectrum: 0.796875
+name: _mowens
+opengraph: {}
 purpose: []
+typography_spectrum: 0.590461
